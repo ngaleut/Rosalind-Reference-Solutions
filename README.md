@@ -2,9 +2,10 @@
 
 ## Inspiration
 
-> “Lirien surveyed the scene with a playful glint in his eyes. ‘Well, mates,’ he boomed, his voice filled with an irresistible charisma, ‘looks like we’re off on another grand adventure! Any bets on what kind of mythical beasts or legendary loot awaits us on this mysterious isle?’  
-> A chorus of laughter and good-natured ribbing erupted from the crew. In her peripheral vision, Sara couldn’t help but roll her eyes. ‘Show-off,’ she muttered under her breath, a wry smile playing on her lips. Sylvane simply grunted his agreement, a hint of amusement flickering in his usually impassive gaze.  
-> With a single, powerful leap, Lirien propelled himself onto the crow’s nest, his grip on the railing surprisingly secure with just one hand. He stood there, bathed in the golden afternoon sun, his eyes scanning the endless expanse of the ocean. The wind whipped at his hair, carrying with it the salty tang of the sea and the promise of adventure.”  
+> The crew, their faces etched with a mixture of excitement and apprehension, responded with a chorus of cheers and shouts of agreement. The playful mood shifted to one of focused determination. The storm was coming, and they were ready to face it head-on.  
+> Lirien, a familiar warmth spreading through his chest as he surveyed his crewmates, couldn’t help but feel a surge of confidence. This wasn’t just a ragtag group of individuals thrown together by circumstance. They were a team, a family, bound by loyalty, camaraderie, and a shared sense of purpose. And with the Captain at the helm, Lirien knew they could weather any storm, both literal and metaphorical. 
+> He turned to Zephyr, a silent question hanging in the air. His brother simply grinned, a glint of mischief in his eyes. “Ready to face the real challenge, Lirien?” he asked, his voice barely a whisper.
+> Lirien returned the grin, a knot of excitement tightening in his stomach. “Always,” he replied, the challenge echoing in his mind. The storm might be upon them, but so were the days ahead, filled with uncertainty and perilous encounters. But with his newfound bond with Zephyr by his side, and the unwavering support of the Sea Serpent’s crew, Lirien was confident they could overcome whatever obstacles lay in their path. 
 > — *from **The SeaFarer’s Curse*** 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
