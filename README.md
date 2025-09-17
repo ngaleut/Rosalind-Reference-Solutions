@@ -1,17 +1,32 @@
-License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
+# Rosalind-Reference-Solutions
 
-Reproducible, tested solutions to bioinformatics problems from [Rosalind](http://rosalind.info/problems/locations/).
+_Reproducible, well-tested reference implementations for **Rosalind** bioinformatics problems._
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Made with: Python](https://img.shields.io/badge/made%20with-Python-3776AB)
+![Type hints](https://img.shields.io/badge/type%20hints-PEP%20484-informational)
+![Code style: Black](https://img.shields.io/badge/code%20style-Black-000000.svg)
+![Lint: Ruff](https://img.shields.io/badge/lint-Ruff-46a2f1)
+<!-- If you add CI later, replace the placeholder below with your workflow badge -->
+<!-- ![Tests](https://github.com/ngaleut/Rosalind-Reference-Solutions/actions/workflows/ci.yml/badge.svg) -->
 
 ---
 
-## 📖 About The Project
+## Why this repo?
 
-This repository contains my personal solutions to the bioinformatics programming challenges on the Rosalind platform. The primary goal is to provide **clear, well-documented, and robust solutions** that are both easy to understand and verify.
+Rosalind (rosalind.info) is an excellent way to learn algorithms through problems grounded in computational biology. This repository aims to provide:
 
-Each solution is:
-* **Reproducible**: Scripts are designed to work consistently with specified dependencies.
-* **Tested**: Unit tests are included to ensure correctness against sample datasets.
-* **Documented**: Code includes comments and explanations of the underlying bioinformatics concepts.
+- **Readable** solutions that prioritize clarity over clever one-liners.  
+- **Reproducibility** with deterministic I/O, pinned dependencies (when used), and seeds for RNG.  
+- **Correctness** via unit tests and property/snapshot tests where appropriate.  
+- **Teaching value** through docstrings, references, complexity notes, and links back to the original problems.
 
-This project serves as a personal learning log and a reference for others tackling these fascinating problems.
+> ⚖️ **Academic Integrity**  
+> These implementations are for learning, benchmarking, and verification. If you’re taking a class that assigns Rosalind problems, follow your course’s collaboration and honor code policies. Don’t submit these solutions as your own work.
+
+---
+
+## Repository layout
+
+> Your structure might differ; this is the intended layout to keep things tidy.
+
