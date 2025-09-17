@@ -30,9 +30,7 @@ This project is my structured arena to:
 
 ## Tracks & Progress
 
-Use the checkboxes to plan and track. (Update as you go.)
-
-- [x] **Python Village**
+- [ ] **Python Village**
 - [ ] **Bioinformatics Stronghold**
 - [ ] **Bioinformatics Armory**
 - [ ] **Algorithmic Heights**
@@ -43,7 +41,6 @@ Use the checkboxes to plan and track. (Update as you go.)
 - [ ] **Combinatorics**
 - [ ] **Algorithmic Complexity**
 
-> Tip: add links to solved problems below as you commit them (see _Progress Log_).
 
 ---
 
