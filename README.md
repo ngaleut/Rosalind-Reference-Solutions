@@ -25,7 +25,6 @@ This project is my structured arena to:
 - Build clear, **reference-quality** solutions that are **reproducible** and **tested**
 - Track progress across multiple Rosalind tracks over time
 
-> _“Build the craft first: clean code, clear data flow, and disciplined iteration. The badges and rankings come as a side-effect of mastery.”_
 
 ---
 
