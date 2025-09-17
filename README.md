@@ -32,7 +32,7 @@ This project is my structured arena to:
 
 Use the checkboxes to plan and track. (Update as you go.)
 
-- [x ] **Python Village**
+- [x] **Python Village**
 - [ ] **Bioinformatics Stronghold**
 - [ ] **Bioinformatics Armory**
 - [ ] **Algorithmic Heights**
